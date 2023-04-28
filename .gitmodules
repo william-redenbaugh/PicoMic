@@ -1,0 +1,3 @@
+[submodule "PicoMic/lib/FreeRTOSCSAL"]
+	path = PicoMic/lib/FreeRTOSCSAL
+	url = git@github.com:william-redenbaugh/FreeRTOSCSAL.git
