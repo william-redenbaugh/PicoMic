@@ -31,4 +31,14 @@ void testing_thread_init_mod(void *params);
 */
 void testing_thread_mod(void *params);
 
+/**
+ * @brief FFT Thread
+*/
+void fft_thread(void *params);
+
+/**
+ * @brief FFT Thread Initialization
+*/
+void fft_thread_init(void *params);
+
 #endif

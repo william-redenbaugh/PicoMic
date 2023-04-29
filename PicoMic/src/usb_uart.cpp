@@ -15,7 +15,7 @@ void usb_thread_init_mod(void *params){
 void usb_thread_mod(void *params){
 
     for(;;){
-        Serial.println("Hello world");
+        //Serial.println("Hello world");
         os_thread_sleep_s(1);
     }
 }
